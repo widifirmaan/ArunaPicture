@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://www.widifirmaan.web.id/ArunaPicture/](https://www.widifirmaan.web.id/ArunaPicture/)
+[https://widifirmaan.github.io/ArunaPicture/](https://widifirmaan.github.io/ArunaPicture/)
 
 <h2>Project Screenshots:</h2>
 
